@@ -1,0 +1,6 @@
+D:\Учёба\C#\HeroesLabBasement\HeroesLabBasement\bin\Debug\HeroesLabBasement.dll
+D:\Учёба\C#\HeroesLabBasement\HeroesLabBasement\bin\Debug\HeroesLabBasement.pdb
+D:\Учёба\C#\HeroesLabBasement\HeroesLabBasement\obj\Debug\HeroesLabBasement.csprojAssemblyReference.cache
+D:\Учёба\C#\HeroesLabBasement\HeroesLabBasement\obj\Debug\HeroesLabBasement.csproj.CoreCompileInputs.cache
+D:\Учёба\C#\HeroesLabBasement\HeroesLabBasement\obj\Debug\HeroesLabBasement.dll
+D:\Учёба\C#\HeroesLabBasement\HeroesLabBasement\obj\Debug\HeroesLabBasement.pdb
